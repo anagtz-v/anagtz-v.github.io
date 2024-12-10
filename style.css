@@ -3,7 +3,7 @@
 }
 
 header{
-    background-color: #2b13ef;
+    background-color: #9ccdf7;
 }
 
 .nav-item a{
@@ -15,28 +15,28 @@ header{
 }
 
 .boton-perfil{
-    background-color: #f4aeff;
+    background-color: white;
 }
 
 .nav-item a:hover{
-    background-color: #f4aeff;
+    background-color: white;
 }
 
 #app{
-    color: #2b13ef;
+    color: #9ccdf7;
 }
 
 .boton-cv{
-    background-color: #2b13ef;
+    background-color: #9ccdf7;
     color: white;
 }
 
 .caja-habilidades{
-    background-color: #c287fb;
+    background-color: #9ccdf7;
 }
 
 .btn-proyecto{
-    background-color: #5d3af3;
+    background-color: #90b141;
     color: white;
 }
 
@@ -46,9 +46,9 @@ header{
 }
 
 .card .card-title{
-    color: #f4aeff;
+    color: #9ccdf7;
 }
 
 #contacto{
-    background-color: #5d3af3;
+    background-color: #90b141;
 }
