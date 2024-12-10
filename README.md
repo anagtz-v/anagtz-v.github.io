@@ -23,7 +23,7 @@ ____
 
 
 ## Vista Previa 
-![Proyecto](/assets/PE1.PNG)
+![Proyecto](/assets/PE1.png)
 ![Proyecto](/assets/PE2.png)
 ![Proyecto](/assets/PE3.png)
 
